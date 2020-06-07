@@ -14,6 +14,6 @@ pip install -r requirements.txt
 python app.py
 ```
 
-![samples/1.png](samples/1.png)
-
 ![samples/2.png](samples/2.png)
+
+测试图片见 [samples/1.png](samples/1.png)
