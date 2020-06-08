@@ -17,3 +17,7 @@ python app.py
 ![samples/2.png](samples/2.png)
 
 测试图片见 [samples/1.png](samples/1.png)
+
+![samples/2.png](samples/4.png)
+
+测试图片见 [samples/3.png](samples/3.png)
