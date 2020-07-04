@@ -7,11 +7,13 @@
 
 ### Usage
 
-```python3
+```shell
 # python version >= 3.4
-
 pip install -r requirements.txt
 python app.py
+
+# Or use docker
+docker run -d --name easy-ocr --restart=always -p 5000:5000 panmax/easy-ocr
 ```
 
 ![samples/2.png](samples/2.png)
