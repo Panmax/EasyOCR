@@ -19,7 +19,7 @@ matplotlib==3.2.1
 mxnet==1.6.0
 numpy==1.18.5
 opencv-python==4.2.0.34
-Pillow==7.1.2
+Pillow==8.1.1
 Polygon3==3.0.8
 portalocker==1.7.0
 protobuf==3.12.2
